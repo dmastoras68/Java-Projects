@@ -1,7 +1,7 @@
 package gr.aueb.cf.ch11;
 
 public class ex01Student {
-    private static int studentsCount = 0;
+    private static int studentsCount ;
 
     static {
         studentsCount = 0;
